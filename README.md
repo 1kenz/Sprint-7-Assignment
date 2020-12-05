@@ -28,7 +28,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/xkendx/Sprint-7/Assigment-7.gif)
+![screenshot]https://github.com/xkendx/Sprint-7-Assignment/blob/main/Assignment-7.gif)
 
 ### Built With
 
